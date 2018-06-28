@@ -1,0 +1,21 @@
+       Sources Consulted:                       D.DEJESUS
+
+
+
+1) The Practice of Statistics
+Yates, Moore, McCabe
+Published by W.H. Freeman
+
+2) Introductory Statistics
+By Neil A. Weiss
+Addison Wesley Publishing Company
+
+
+Internet Sources:
+1) http://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+2) https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f
+
+
+
+
+
